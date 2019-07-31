@@ -1,6 +1,5 @@
 # HostelWorldAutomation
 This repository is a basic implementation of e2e testing on hostel world website
-
 Pre-requisites before executing HostelWorld project.
     1.) Java should be installed and proper related path should be set in environment variables.
     2.) nodeJS should be installed
